@@ -1,0 +1,145 @@
+[
+    {
+        "image": "https://i.ibb.co.com/cFNpg1d/tamim.webp",
+        "name": "Tamim",
+        "player_type": "Batsman",
+        "country": "Bangladesh",
+        "batting_style": "Left-handed",
+        "bowling_style": "N/A",
+        "price": 1000000,
+        "rating": 8.5,
+        "player_id": 1
+    },
+    {
+        "image": "https://i.ibb.co.com/tp09yHR/musfiqur.webp",
+        "name": "Mushfiqur Rahim",
+        "player_type": "Wicket-Keeper",
+        "country": "Bangladesh",
+        "batting_style": "Right-handed",
+        "bowling_style": "N/A",
+        "price": 850000,
+        "rating": 8.0,
+        "player_id": 2
+    },
+    {
+        "image": "https://i.ibb.co.com/C1mqnBs/rube.jpg",
+        "name": "Rubel Hossain",
+        "player_type": "Bowler",
+        "country": "Bangladesh",
+        "batting_style": "Right-handed",
+        "bowling_style": "Fast-bowler",
+        "price": 1200000,
+        "rating": 8.7,
+        "player_id": 3
+    },
+    {
+        "image": "https://i.ibb.co.com/PthC57J/mahamudullah.webp",
+        "name": "Mahamudullah Riyad",
+        "player_type": "Batsman",
+        "country": "Bangladesh",
+        "batting_style": "Right-handed",
+        "bowling_style": "N/A",
+        "price": 950000,
+        "rating": 7.9,
+        "player_id": 4
+    },
+    {
+        "image": "https://i.ibb.co.com/YWY7pn4/imrul.jpg",
+        "name": "Imrul Kayes",
+        "player_type": "Batsman",
+        "country": "Bangladesh",
+        "batting_style": "Right-handed",
+        "bowling_style": "N/A",
+        "price": 1100000,
+        "rating": 8.3,
+        "player_id": 5
+    },
+    {
+        "image": "https://i.ibb.co.com/ngGrZqp/enamul.webp",
+        "name": "Enamul Haque Bijoy",
+        "player_type": "Batsman",
+        "country": "Bangladesh",
+        "batting_style": "Left-handed",
+        "bowling_style": "N/A",
+        "price": 780000,
+        "rating": 7.5,
+        "player_id": 6
+    },
+    {
+        "image": "https://i.ibb.co.com/3zHs2gg/shafiul.jpg",
+        "name": "Shafiul Islam",
+        "player_type": "Bowler",
+        "country": "Bangladesh",
+        "batting_style": "Right-handed",
+        "bowling_style": "Medium-fast-bowler",
+        "price": 1300000,
+        "rating": 9.0,
+        "player_id": 7
+    },
+    {
+        "image": "https://i.ibb.co.com/bLT9HVw/mustafiz.jpg",
+        "name": "Mustafizur Rahman",
+        "player_type": "Bowler",
+        "country": "Bangladesh",
+        "batting_style": "Left-handed",
+        "bowling_style": "Fast-bowler",
+        "price": 1050000,
+        "rating": 8.2,
+        "player_id": 8
+    },
+    {
+        "image": "https://i.ibb.co.com/QrW7tsN/sabbir.jpg",
+        "name": "Sabbir Rahman",
+        "player_type": "Batsman",
+        "country": "Bangladesh",
+        "batting_style": "Right-handed",
+        "bowling_style": "N/A",
+        "price": 980000,
+        "rating": 8.1,
+        "player_id": 9
+    },
+    {
+        "image": "https://i.ibb.co.com/Vpst76X/miraz.jpg",
+        "name": "Mehedy Hasan Miraz",
+        "player_type": "All-Rounder",
+        "country": "Bangladesh",
+        "batting_style": "Right-handed",
+        "bowling_style": "Off-spin",
+        "price": 860000,
+        "rating": 7.8,
+        "player_id": 10
+    },
+    {
+        "image": "https://i.ibb.co.com/cCRTDWg/gayle.webp",
+        "name": "Cris Gayle",
+        "player_type": "Batsman",
+        "country": "West Indies",
+        "batting_style": "Right-handed",
+        "bowling_style": "N/A",
+        "price": 1250000,
+        "rating": 8.6,
+        "player_id": 11
+    },
+    {
+        "image": "https://i.ibb.co.com/Y3B5JKp/AB-de-viliers.jpg",
+        "name": "AB de Viliers",
+        "player_type": "Batsman",
+        "country": "South Africa",
+        "batting_style": "Right-handed",
+        "bowling_style": "N/A",
+        "price": 1020000,
+        "rating": 8.4,
+        "player_id": 12
+    },
+    {
+        "image": "https://i.ibb.co.com/QkLDHDb/Russel.webp",
+        "name": "Andre Russel",
+        "player_type": "All-Rounder",
+        "country": "West Indies",
+        "batting_style": "Left-handed",
+        "bowling_style": "Medium-fast-bowler",
+        "price": 920000,
+        "rating": 7.6,
+        "player_id": 13
+    }
+]
